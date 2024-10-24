@@ -230,7 +230,7 @@ ol + hr + h2 {
 
 @media screen and (min-width: 650px) {
   body {
-    margin-top: 123px;
+    margin-block: 123px;
     padding: 40px;
     background-color: var(--color-white);
     max-width: 735px;

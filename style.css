@@ -126,6 +126,7 @@ p {
   margin-bottom: 0;
   font-family: var(--font-family-text);
   letter-spacing: -.2px;
+  font-weight: 600;
 }
 
 b {

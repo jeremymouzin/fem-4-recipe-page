@@ -184,6 +184,10 @@ table tr {
   align-items: center;
 }
 
+table tr:last-child {
+  border-bottom: none;
+}
+
 table th {
   padding: 11.5px 30px;
   width: 50%;
